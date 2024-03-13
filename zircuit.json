@@ -1,0 +1,22 @@
+{
+  "name": "Zircuit",
+  "timestamp": "2024-12-28T00:00:00.000Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "",
+  "keywords": [],
+  "tokens": [
+    {
+      "chainId": 48899,
+      "address": "0xB624103Eb622d655dd834B694Aa6EA0363f2A156",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/ethereum-classic/chains/63/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a/logo.png"
+    }
+  ]
+}
